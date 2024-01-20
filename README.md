@@ -1,16 +1,11 @@
-# city_project
+# قیمت روز ارز و طلا 
 
-A new Flutter project.
-
+تمرکز این مینی پروژه روی نحوه صحیح دریافت اطلاعات میباشد. که اطلاعات رو سعی کردیم به صورت خیلی ساده ( وصرفا جهت نمایش) داخل ویدجت Card قرار بدیم ، و در آخر  pageView .
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+اینجا فیلم نحوه عملکرد برنامه رو براتون قرار میدم
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/mahdadi78/-/assets/78992400/c539d290-1bec-442b-8938-8e12a46a74f0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
